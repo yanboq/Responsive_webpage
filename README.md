@@ -1,4 +1,4 @@
-# responsive_webpage
+# responsive_webpage with skeleton.css
 responsive webpage and pop up images example
 skeleton.css 
 font awesome icon
